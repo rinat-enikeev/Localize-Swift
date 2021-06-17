@@ -12,8 +12,7 @@ let package = Package(
     dependencies: [],
     targets: [
         .target(
-            name: "Localize_Swift",
-            path: "Sources")
+            name: "Localize_Swift")
     ],
     swiftLanguageVersions: [.v5]
 )
